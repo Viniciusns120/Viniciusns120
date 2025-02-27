@@ -2,8 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sgt-nascimento/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=flat-square&logo=whatsapp)](https://wa.me/5585988333978?text=Olá,%20gostaria%20de%20mais%20informações!)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram)](https://t.me/)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=instagram)](https://instagram.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram)](https://telegram.me/viniciusns120)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=instagram)](https://www.instagram.com/vinii_dsousa/)
 [![Website](https://img.shields.io/badge/Website-black?style=flat-square&logo=google-chrome)](https://yourportfolio.com)
 
 ## Glad to see you here! 
